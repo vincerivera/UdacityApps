@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppPortfolio</string>
+    <string name="popular_movies">POPULAR MOVIES</string>
+    <string name="stock_hawk">STOCK HAWK</string>
+</resources>
